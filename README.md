@@ -10,7 +10,7 @@ The dataset is the details of the customers in a company. The column are about i
 
 Languages and libraries :
 
-This project uses python3, sklearn, numpy, pandas, imblearn, collections, joblib in jupyter notebook(Anaconda Distribution).
+This project uses python3, sklearn, numpy, pandas, imblearn, collections, joblib in kaggle jupyter notebook environment.
 
 Models and techniques used :
  
