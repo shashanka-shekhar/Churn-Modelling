@@ -14,6 +14,6 @@ This project uses python3, sklearn, numpy, pandas, imblearn, collections, joblib
 
 Models and techniques used :
  
- 1.RandomForestClassifier, SVC and logistic regression.
+  1.RandomForestClassifier, SVC and logistic regression.
  
- 2.Over Sampling of one of the minority class was done.
+  2.Over Sampling of one of the minority class was done.
