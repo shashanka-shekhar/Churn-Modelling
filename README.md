@@ -16,4 +16,4 @@ Models and techniques used :
  
   1.RandomForestClassifier, SVC and logistic regression.
  
-  2.Over Sampling of one of the minority class was done.
+  2.Over Sampling of one of the minority class was done using SMOTE.
