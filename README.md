@@ -8,6 +8,8 @@ Dataset :
 
 The dataset is the details of the customers in a company. The column are about it's estimated salary, age etc. Aiming to provide all details about an employee.
 
+Shape - (10000 x 14)
+
 Languages and libraries :
 
 This project uses python3, sklearn, numpy, pandas, imblearn, collections, joblib in kaggle jupyter notebook environment.
